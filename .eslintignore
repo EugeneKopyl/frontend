@@ -1,0 +1,14 @@
+dist/
+node_modules/
+.dockerignore
+.editorconfig
+.env
+.env.example
+.gitignore
+.prettierignore
+.idea
+.gitkeep
+commitlint.config.js
+.vscode/
+*.log
+updates.txt
